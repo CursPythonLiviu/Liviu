@@ -1,0 +1,1 @@
+ Codul Python furnizat este o aplicație web bazată pe framework-ul Flask, care efectuează o analiză a datelor de sănătate generate aleatoriu și prezintă rezultatele printr-o interfață web.
